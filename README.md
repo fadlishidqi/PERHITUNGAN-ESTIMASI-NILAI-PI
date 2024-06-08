@@ -11,13 +11,13 @@ Metode integrasi Reimann digunakan untuk menghitung perkiraan nilai pi dengan me
 
 1. Pastikan memiliki Python yang sesuai dengan dependensi yang disebutkan di atas.
 2. Unduh atau kloning repositori ini.
-3. Jalankan script Python `reimann_integration.py`.
+3. Jalankan script Python `Perhitungan estimasi Nilai Pi.py`.
 4. Script akan menghitung perkiraan nilai pi dengan berbagai nilai N (jumlah persegi panjang), mengukur galat RMS terhadap nilai referensi pi, dan mengukur waktu eksekusi.
 5. Grafik hasil akan ditampilkan, termasuk galat RMS terhadap N dan waktu eksekusi terhadap N.
 
 ## Deskripsi Kode
 
-- `reimann_integration.py`: Script utama yang menggunakan metode integrasi Reimann untuk menghitung nilai perkiraan pi, mengukur galat RMS, dan waktu eksekusi untuk berbagai nilai N.
+- `Perhitungan estimasi Nilai Pi.py`: Script utama yang menggunakan metode integrasi Reimann untuk menghitung nilai perkiraan pi, mengukur galat RMS, dan waktu eksekusi untuk berbagai nilai N.
 
 ## Hasil Analisis
 
